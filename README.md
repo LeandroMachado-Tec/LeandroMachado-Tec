@@ -27,8 +27,8 @@ Sou **Técnico em Informática** formado pelo **CEFET-RJ (Campus Nova Iguaçu)**
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=Machado-Leandro11&theme=matrix&style=aura" alt="Estatísticas animadas do GitHub"/>
-  <img src="https://www.gitskins.com/api/section/stack?username=Machado-Leandro11&theme=matrix&style=aura" alt="Stack de tecnologias"/>
+  <img src="https://www.gitskins.com/api/section/stats?username=LeandroMachado-Tec&theme=matrix&style=aura" alt="Estatísticas animadas do GitHub"/>
+  <img src="https://www.gitskins.com/api/section/stack?username=LeandroMachado-Tec&theme=matrix&style=aura" alt="Stack de tecnologias"/>
 </div>
 
 ---
